@@ -1,1 +1,1 @@
-longcreditlxzf/hongdun_docker:latest
+hongdun/linux-command:latest
